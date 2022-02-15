@@ -1,32 +1,14 @@
 # Principais serviços
 
-Participando voluntariamente do projeto Tiger OS - www.tigeros.com.br 
-
-Prestando os serviços abaixo, principalmente para microempreendedores:
-
-- Implantação do Tiger OS, distribuição Linux brasileira voltada para empresas
-
-- Revenda do Gestão Click - http://gestao.click/540131 
-
-Estudando assuntos relacionados ao cargo de Analista de Infraestrutura de TI / DevOps:
-
-- AWS (EC2, ECS, EKS e demais serviços da Amazon)
-- Infraestrutura como código e automação de pipelines (YAML, Bash (Shell Script), Github Actions, Jenkins, Terraform, Ansible)
-- Monitoramento (CloudWatch)
-- Containers (Docker, Kubernetes)
-- Desenvolvimento ágil (Jira / Confluence / Kanban)
-- Python
-
-Alguns assuntos que estudei e trabalhei, mesmo em curtos períodos, em projetos próprios ou como freelancer:
-
-- PHP / MySQL (WordPress, Joomla, PHPBB, SugarCRM, OSCommerce, Magento, Moodle)
-- HTML, CSS, Javascript (incluindo o Node.js, que estudei durante a NLW#2 da Rocketseat)
-- JSON, XML, YAML (Github Actions, Jenkins)
-- API REST
-- Containers: Docker e Kubernetes
-- Java - Apache Maven, Spring, Tomcat.
-- Python - Pandas, Jupyter Notebook
-- Sequelize, MongoDB
+- Criação de Sites Estáticos diretamente no Github usando o Jekyll no Github Pages
+<br>Alguns usos e vantagens dos Sites Estáticos:
+  - Dispensa o uso de bancos de dados
+  - Já são otimizados para mecanismos de busca (SEO)
+  - Entrega e Integração Contínua no próprio Github Actions (Build and Deploy automáticos cada vez que são feitas e aprovadas as atualizações no conteúdo do repositório)
+- Documentação de software diretamente no Github
+- Criação e administração de imagens Docker personalizadas
+- Implantação do Tiger OS, www.tigeros.com.br, e de sistemas de código aberto
+- Revenda do Gestão Click - http://gestao.click/540131
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
