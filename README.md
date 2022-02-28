@@ -1,15 +1,3 @@
-# Principais serviços
-
-- Criação de Sites Estáticos diretamente no Github usando o Jekyll no Github Pages
-<br>Alguns usos e vantagens dos Sites Estáticos:
-  - Dispensa o uso de bancos de dados
-  - Já são otimizados para mecanismos de busca (SEO)
-  - Entrega e Integração Contínua no próprio Github Actions (Build and Deploy automáticos cada vez que são feitas e aprovadas as atualizações no conteúdo do repositório)
-- Documentação de software diretamente no Github
-- Criação e administração de imagens Docker personalizadas
-- Implantação do Tiger OS, www.tigeros.com.br, e de sistemas de código aberto
-- Revenda do Gestão Click - http://gestao.click/540131
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielramosbh74@gmail.com)](mailto:danielramosbh74@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-ramos-de-carvalho/)](https://www.linkedin.com/in/daniel-ramos-de-carvalho/)
 
