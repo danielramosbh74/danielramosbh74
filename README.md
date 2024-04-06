@@ -14,5 +14,5 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-# Alguns assuntos que estudei ou tenho estudado ("Github Stars")
+### Alguns assuntos que estudei ou tenho estudado ("Github Stars")
 https://github.com/danielramosbh74?tab=stars
