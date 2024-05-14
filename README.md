@@ -14,5 +14,28 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-### Alguns assuntos que estudei ou tenho estudado ("Github Stars")
-https://github.com/danielramosbh74?tab=stars
+### Alguns assuntos que já estudei
+
+- HTML5, CSS3, Javascript (Node, Express, React e Vue)
+- PHP (Joomla, WordPress, PHPBB, SugarCRM, OSCommerce, Magento, Moodle)
+- APIs REST, RESTful
+- Python (Flask, Django REST, PANDAS, scikit-learn)
+- C# (.NET)
+- Bancos de dados: MySQL, PostGreSQL, MongoDB
+- Versionamento de código: Git, Github, Bitbucket
+- Pipelines de CI/CD: Jenkins, Gitlab
+- Linux, Bash (Shell Scripts)
+- Virtualização e containers: Virtualbox, Libvirt, Docker, Podman, Kubernetes
+- Clouds: Google, Azure e AWS
+- Testes unitários e “End to End”.
+- Boas práticas de desenvolvimento: Clean Code, SOLID, Design Patterns e MVC;
+- Segurança da informação: Antivírus, firewall, criptografia. privacidade (LGPD)
+- Inteligência Artificial:
+  - Machine Learning e Data Science com Python de A a Z - Jones Granatyr - Udemy
+  - Maratona IBM Behind the Code 2020:
+    - Desafio 1 - Reconhecimento de imagens com IA - Cloud Foundry
+    - Desafio 2 - Ciência de dados - Machine Learning - Jupyter - Watson
+    - Desafio 3 - Inteligência Artificial
+    - Desafio 4 - Machine Learning
+      
+- "Github Stars": https://github.com/danielramosbh74?tab=stars
