@@ -14,6 +14,44 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
+### Alguns assuntos que venho aprofundando
+
+**ETL (Extração, Transformação, Carregamento) e Análise de dados**
+
+Várias ferramentas e tecnologias podem ser utilizadas por um Analista para manipular dados (ETL - Extrair, Transformar e Carregar). Eis algumas abaixo:
+
+- Para poucos dados:
+  - O próprio Excel. Ex. Importar (ou extrair), exportar (converter, salvar ou carregar em outro ambiente), planilhas com campos e registros no formato Excel para arquivos .CSV.
+  - Power BI
+  - Interfaces gráficas para bancos de dados (ex. PHPMyAdmin)
+- Para grandes volumes de dados:
+  - Comandos SQL ou abstração deles através de um ORM podem ser usados para conexão, exportação, importação e manipulação em geral dos dados no banco de dados.
+  - Pacotes estatísticos e matemáticos do Python, específicos para análise e manipulação de dados, como o PANDAS, SciKit Learn, PySpark, etc.
+
+- Etapas de Transformação dos Dados:
+1. Limpeza de Dados:
+  - Remover dados duplicados.
+  - Preencher valores ausentes ou nulos.
+2. Filtragem de Dados:
+  - Selecionar apenas as colunas necessárias.
+  - Aplicar condições para filtrar registros específicos.
+3. Mapeamento de Dados:
+  - Aplicar funções ou transformações em colunas existentes para criar novas.
+  - Converter tipos de dados, como de string para numérico.
+4. Agregação de Dados:
+  - Agrupar dados com base em determinadas colunas.
+  - Realizar operações agregadas, como soma, média ou contagem.
+
+<br>
+
+Algumas opções para Carregar Dados Transformados:
+  - Banco de Dados:
+    - MySQL, PostgreSQL, etc.: Use o método .write.jdbc() do Spark para escrever os dados em um banco de dados SQL.
+  - Sistemas de Arquivos Distribuídos:
+    - HDFS (Hadoop Distributed File System): Use o método .write.format("parquet").save() para salvar os dados no formato Parquet no HDFS.
+  - Armazenamentos em Nuvem:
+    - Amazon S3, Google Cloud Storage, Azure Blob Storage: Use o método .write.format("csv").save() para salvar os dados como arquivos CSV na nuvem
+
 ### Alguns assuntos que já estudei
 
 - HTML5, CSS3, Javascript (Node, Express, React e Vue)
