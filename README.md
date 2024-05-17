@@ -18,10 +18,9 @@ _"Simplicity is a great virtue but it requires hard work to achieve it and educa
 
 - HTML5, CSS3, Javascript (Node, Express, React e Vue)
 - PHP (Joomla, WordPress, PHPBB, SugarCRM, OSCommerce, Magento, Moodle)
-- APIs REST, RESTful
-- Python (Flask, Django REST, PANDAS, scikit-learn)
-- C# (.NET)
+- Python (Flask, Django REST, PANDAS, scikit-learn, RPA usando pyautogui)
 - Bancos de dados: MySQL, PostGreSQL, MongoDB
+- APIs REST, RESTful
 - Versionamento de código: Git, Github, Bitbucket
 - Pipelines de CI/CD: Jenkins, Gitlab
 - Linux, Bash (Shell Scripts)
@@ -37,5 +36,10 @@ _"Simplicity is a great virtue but it requires hard work to achieve it and educa
     - Desafio 2 - Ciência de dados - Machine Learning - Jupyter - Watson
     - Desafio 3 - Inteligência Artificial
     - Desafio 4 - Machine Learning
+   
+### Atuação como freelancer (Perfis no 99freelas):
+- https://www.99freelas.com.br/user/danielramosbh74-2 (Perfil como Contratante - 52 avaliações positivas)
+- https://www.99freelas.com.br/user/danielramosbh74 (Perfil como Freelancer)
       
-- "Github Stars": https://github.com/danielramosbh74?tab=stars
+### Alguns assuntos que acho interessantes (Github Stars): 
+- https://github.com/danielramosbh74?tab=stars
