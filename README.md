@@ -29,7 +29,6 @@ Possuo conhecimento básico (conceitual, estudos e testes práticos com os tutor
 - ETL - Extração Transformação e Carregamento de Dados:
   - Arquivos CSV, XML, JSON
   - Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
-  - Excel
   - Consultas SQL básicas (ex. SELECT * FROM Customer;)
 - RPA - Robotic Process Automation, usando o módulo pyautogui do Python
 - Versionamento de código: Git / Github: https://github.com/danielramosbh74
