@@ -16,38 +16,32 @@ _"Simplicity is a great virtue but it requires hard work to achieve it and educa
 
 ### Alguns assuntos que já estudei ou continuo estudando
 
-- Frontend: 
-  - HTML5, CSS3, Javascript. Puros
-  - Vue.js (estudando, focando em API para integrá-lo com diversos back-ends (ex. Node, Python e PHP)
-- Backend / Servidores Web:
-  - Pilha LAMP - Linux, Apache, MySQL, PHP
-  - Node, Express
-  - Nginx
-- Full stack (Frameworks - Linguagens):
-  - WordPress - PHP
-  - Flask - Python
-- Integrações:
-  - APIs REST
-  - Arquivos CSV, XML, JSON
+Possuo conhecimento básico (conceitual, estudos e testes práticos com os tutoriais oficiais) em:
+- WordPress - PHP
+- NodeJS - JavaScript
+- Angular - Typescript
+- Flask - Python
+- Django - Python
+- Integrações usando APIs REST
 - Bancos de dados:
   - MySQL, PostGreSQL, MongoDB
-  - Consultas SQL (ex. SELECT * FROM Customer;)
+  - Consultas SQL básicas (ex. SELECT * FROM Customer;)
 - ETL - Extração Transformação e Carregamento de Dados:
   - Arquivos CSV, XML, JSON
   - Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
   - Excel
-  - Consultas SQL (ex. SELECT * FROM Customer;)
-- RPA - Robotic Process Automation
-  - Usando o módulo pyautogui do Python
-- Versionamento de código:
-  - Git / Github: https://github.com/danielramosbh74
-- Pipelines de CI/CD: 
-  - Github Actions, Gitlab, Jenkins
-- VMs e Containers
+  - Consultas SQL básicas (ex. SELECT * FROM Customer;)
+- RPA - Robotic Process Automation, usando o módulo pyautogui do Python
+- Versionamento de código: Git / Github: https://github.com/danielramosbh74
+- Pipelines de CI/CD: Github Actions, Gitlab, Jenkins
+- VMs e Containers: 
   - Instância Linux AWS EC2
   - Docker, Kubernetes
-- Clouds:
-  - GCP (Google Cloud Platform), Azure, AWS e IBM.
+- Clouds: GCP (Google Cloud Platform), Azure, AWS e IBM.
+
+OBS: Apesar da minha idade, me considero um desenvolvedor Júnior ou Pleno, dependendo do nível de exigência de cada empresa, mas não Sênior, pois estudei sobre diversos assuntos, mas eu não me especializei em uma só linguagem ou framework como eu gostaria.
+
+A linguagem que tenho um pouco mais de facilidade de trabalhar sem usar um framework é Python.
    
 ### Atuação como freelancer (Perfis no 99freelas):
 - https://www.99freelas.com.br/user/danielramosbh74-2 (Perfil como Contratante - 52 avaliações positivas)
