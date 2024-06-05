@@ -14,28 +14,40 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-### Alguns assuntos que já estudei
+### Alguns assuntos que já estudei ou continuo estudando
 
-- HTML5, CSS3, Javascript (Node, Express, React e Vue)
-- PHP (Joomla, WordPress, PHPBB, SugarCRM, OSCommerce, Magento, Moodle)
-- Python (Flask, Django REST, PANDAS, scikit-learn, RPA usando pyautogui)
-- Bancos de dados: MySQL, PostGreSQL, MongoDB
-- APIs REST, RESTful
-- Versionamento de código: Git, Github, Bitbucket
-- Pipelines de CI/CD: Jenkins, Gitlab
-- Linux, Bash (Shell Scripts)
-- Virtualização e containers: Virtualbox, Libvirt, Docker, Podman, Kubernetes
-- Clouds: Google, Azure e AWS
-- Testes unitários e “End to End”.
-- Boas práticas de desenvolvimento: Clean Code, SOLID, Design Patterns e MVC;
-- Segurança da informação: Antivírus, firewall, criptografia. privacidade (LGPD)
-- Inteligência Artificial:
-  - Machine Learning e Data Science com Python de A a Z - Jones Granatyr - Udemy
-  - Maratona IBM Behind the Code 2020:
-    - Desafio 1 - Reconhecimento de imagens com IA - Cloud Foundry
-    - Desafio 2 - Ciência de dados - Machine Learning - Jupyter - Watson
-    - Desafio 3 - Inteligência Artificial
-    - Desafio 4 - Machine Learning
+- Frontend: 
+  - HTML5, CSS3, Javascript. Puros
+  - Vue.js (estudando, focando em API para integrá-lo com diversos back-ends (ex. Node, Python e PHP)
+- Backend / Servidores Web:
+  - Pilha LAMP - Linux, Apache, MySQL, PHP
+  - Node, Express
+  - Nginx
+- Full stack (Frameworks - Linguagens):
+  - WordPress - PHP
+  - Flask - Python
+- Integrações:
+  - APIs REST
+  - Arquivos CSV, XML, JSON
+- Bancos de dados:
+  - MySQL, PostGreSQL, MongoDB
+  - Consultas SQL (ex. SELECT * FROM Customer;)
+- ETL - Extração Transformação e Carregamento de Dados:
+  - Arquivos CSV, XML, JSON
+  - Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
+  - Excel
+  - Consultas SQL (ex. SELECT * FROM Customer;)
+- RPA - Robotic Process Automation
+  - Usando o módulo pyautogui do Python
+- Versionamento de código:
+  - Git / Github: https://github.com/danielramosbh74
+- Pipelines de CI/CD: 
+  - Github Actions, Gitlab, Jenkins
+- VMs e Containers
+  - Instância Linux AWS EC2
+  - Docker, Kubernetes
+- Clouds:
+  - GCP (Google Cloud Platform), Azure, AWS e IBM.
    
 ### Atuação como freelancer (Perfis no 99freelas):
 - https://www.99freelas.com.br/user/danielramosbh74-2 (Perfil como Contratante - 52 avaliações positivas)
