@@ -37,11 +37,7 @@ Possuo conhecimento básico (conceitual, estudos e testes práticos com os tutor
   - Instância Linux AWS EC2
   - Docker, Kubernetes
 - Clouds: GCP (Google Cloud Platform), Azure, AWS e IBM.
-
-OBS: Apesar da minha idade, me considero um desenvolvedor Júnior ou Pleno, dependendo do nível de exigência de cada empresa, mas não Sênior, pois estudei sobre diversos assuntos, mas eu não me especializei em uma só linguagem ou framework como eu gostaria.
-
-A linguagem que tenho um pouco mais de facilidade de trabalhar sem usar um framework é Python.
-   
+  
 ### Atuação como freelancer (Perfis no 99freelas):
 - https://www.99freelas.com.br/user/danielramosbh74-2 (Perfil como Contratante - 52 avaliações positivas)
 - https://www.99freelas.com.br/user/danielramosbh74 (Perfil como Freelancer)
