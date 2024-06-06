@@ -29,7 +29,7 @@ De lá pra cá sempre procurei me atualizar e estudar novas linguagens, framewor
 Tenho conhecimento básico (conceitual, estudos e testes práticos com alguns tutoriais oficiais) em:
 - WordPress - PHP
 - NodeJS - JavaScript
-- Angular - Typescript
+- Vue.js - JavaScript
 - Flask - Python
 - Django - Python
 - Integrações usando APIs REST
