@@ -14,19 +14,12 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-<img width="400px" align="left" src="images/Cobol-1989-1-de-6.jpg?raw=true">
+Conheço o básico* sobre:
 
-<img width="400px" align="center" src="images/Cobol-1989-2-de-6.jpg?raw=true">
+`* Estudei, instalei e testei localmente.` 
 
-<img width="400px" align="center" src="images/Cobol-1989-3-de-6.jpg?raw=true">
+`E na medida do possível, ou quando surgem demandas específicas, eu reviso e aprofundo mais.`
 
-Minhas primeiras experiências com programação foram com BASIC, em um MSX HotBit, e com COBOL, em um curso que fiz em 1989.
-
-Fiz a minha primeira macro VBA no Excel para padronizar os gráficos da produção científica na pró-reitoria de Pesquisa da UFMG no meu primeiro emprego, em 1993.
-
-De lá pra cá sempre procurei me atualizar e estudar novas linguagens, frameworks e tecnologias.
-
-Tenho conhecimento básico (conceitual, estudos e testes práticos com alguns tutoriais oficiais) em:
 - WordPress - PHP
 - NodeJS - JavaScript
 - Vue.js - JavaScript
@@ -47,7 +40,7 @@ Tenho conhecimento básico (conceitual, estudos e testes práticos com alguns tu
   - Instância Linux AWS EC2
   - Docker, Kubernetes
 - Clouds: GCP (Google Cloud Platform), Azure, AWS e IBM.
-  
+
 ### Atuação como freelancer (Perfis no 99freelas):
 - https://www.99freelas.com.br/user/danielramosbh74-2 (Perfil como Contratante - 52 avaliações positivas)
 - https://www.99freelas.com.br/user/danielramosbh74 (Perfil como Freelancer)
