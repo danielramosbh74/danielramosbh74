@@ -20,7 +20,7 @@ _"Simplicity is a great virtue but it requires hard work to achieve it and educa
 
 <img width="400px" align="center" src="images/Cobol-1989-3-de-6.jpg?raw=true">
 
-Minhas primeiras experiências com programação foram com BASIC, em um MSX HotBit, e com COBOL, em um curso que fiz em 1989. Tirei uma foto da prova final deste curso e publiquei-a no meu Github pessoal como lembrança e motivação: https://github.com/danielramosbh74. 
+Minhas primeiras experiências com programação foram com BASIC, em um MSX HotBit, e com COBOL, em um curso que fiz em 1989.
 
 Fiz a minha primeira macro VBA no Excel para padronizar os gráficos da produção científica na pró-reitoria de Pesquisa da UFMG no meu primeiro emprego, em 1993.
 
