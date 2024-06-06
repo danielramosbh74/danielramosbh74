@@ -14,9 +14,19 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-### Alguns assuntos que já estudei ou continuo estudando
+<img width="400px" align="left" src="images/Cobol-1989-1-de-6.jpg?raw=true">
 
-Possuo conhecimento básico (conceitual, estudos e testes práticos com os tutoriais oficiais) em:
+<img width="400px" align="center" src="images/Cobol-1989-2-de-6.jpg?raw=true">
+
+<img width="400px" align="center" src="images/Cobol-1989-3-de-6.jpg?raw=true">
+
+Minhas primeiras experiências com programação foram com BASIC, em um MSX HotBit, e com COBOL, em um curso que fiz em 1989. Tirei uma foto da prova final deste curso e publiquei-a no meu Github pessoal como lembrança e motivação: https://github.com/danielramosbh74. 
+
+Fiz a minha primeira macro VBA no Excel para padronizar os gráficos da produção científica na pró-reitoria de Pesquisa da UFMG no meu primeiro emprego, em 1993.
+
+De lá pra cá sempre procurei me atualizar e estudar novas linguagens, frameworks e tecnologias.
+
+Tenho conhecimento básico (conceitual, estudos e testes práticos com alguns tutoriais oficiais) em:
 - WordPress - PHP
 - NodeJS - JavaScript
 - Angular - Typescript
@@ -29,7 +39,7 @@ Possuo conhecimento básico (conceitual, estudos e testes práticos com os tutor
 - ETL - Extração Transformação e Carregamento de Dados:
   - Arquivos CSV, XML, JSON
   - Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
-  - Consultas SQL básicas (ex. SELECT * FROM Customer;)
+  - Consultas SQL básicas
 - RPA - Robotic Process Automation, usando o módulo pyautogui do Python
 - Versionamento de código: Git / Github: https://github.com/danielramosbh74
 - Pipelines de CI/CD: Github Actions, Gitlab, Jenkins
