@@ -14,12 +14,6 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-### Conheço o básico* sobre:
-
-`* Estudei, instalei e testei localmente.` 
-
-`E na medida do possível, ou quando surgem demandas específicas, eu reviso e aprofundo mais.`
-
 - WordPress - PHP
 - NodeJS - JavaScript
 - Vue.js - JavaScript
