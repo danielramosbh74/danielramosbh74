@@ -22,11 +22,11 @@ _"Simplicity is a great virtue but it requires hard work to achieve it and educa
 - Integrações usando APIs REST
 - Bancos de dados:
   - MySQL, PostGreSQL, MongoDB
-  - Consultas SQL básicas (ex. SELECT * FROM Customer;)
+  - Consultas SQL
 - ETL - Extração Transformação e Carregamento de Dados:
   - Arquivos CSV, XML, JSON
   - Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
-  - Consultas SQL básicas
+  - Consultas SQL
 - RPA - Robotic Process Automation, usando o módulo pyautogui do Python
 - Versionamento de código: Git / Github: https://github.com/danielramosbh74
 - Pipelines de CI/CD: Github Actions, Gitlab, Jenkins
