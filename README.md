@@ -27,7 +27,9 @@ _"Simplicity is a great virtue but it requires hard work to achieve it and educa
   - Arquivos CSV, XML, JSON
   - Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
   - Consultas SQL
-- RPA - Robotic Process Automation, usando o módulo pyautogui do Python
+- Planilhas administrativas no Excel com dashboards, funções e macros.
+- PowerPoint, Power BI, Power Automate.
+- RPA - Robotic Process Automation - Módulo pyautogui do Python
 - Versionamento de código: Git / Github: https://github.com/danielramosbh74
 - Pipelines de CI/CD: Github Actions, Gitlab, Jenkins
 - VMs e Containers: 
