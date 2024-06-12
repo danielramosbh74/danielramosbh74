@@ -14,32 +14,38 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-- WordPress - PHP
-- NodeJS - JavaScript
-- Vue.js - JavaScript
-- Flask - Python
-- Django - Python
-- Integrações usando APIs REST
-- Bancos de dados:
-  - MySQL, PostGreSQL, MongoDB
-  - Consultas SQL
-- ETL - Extração Transformação e Carregamento de Dados:
-  - Arquivos CSV, XML, JSON
-  - Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
-  - Consultas SQL
-- Planilhas administrativas no Excel com dashboards, funções e macros.
-- PowerPoint, Power BI, Power Automate.
-- RPA - Robotic Process Automation - Módulo pyautogui do Python
-- Versionamento de código: Git / Github: https://github.com/danielramosbh74
-- Pipelines de CI/CD: Github Actions, Gitlab, Jenkins
-- VMs e Containers: 
-  - Instância Linux AWS EC2
-  - Docker, Kubernetes
-- Clouds: GCP (Google Cloud Platform), Azure, AWS e IBM.
+### Consultor de TI
 
-### Atuação como freelancer (Perfis no 99freelas):
-- https://www.99freelas.com.br/user/danielramosbh74-2 (Perfil como Contratante - 52 avaliações positivas)
-- https://www.99freelas.com.br/user/danielramosbh74 (Perfil como Freelancer)
-      
-### Alguns assuntos que acho interessantes (Github Stars): 
-- https://github.com/danielramosbh74?tab=stars
+Implantei e configurei lojas virtuais, sites e sistemas web baseados em WordPress e outros softwares de código aberto feitos em PHP.
+
+Tive contas gratuitas na AWS, na Google Cloud, Azure e IBM e testei os principais serviços destas plataformas.
+
+Auxiliei remotamente alguns clientes com planilhas administrativas complexas, com dashboards, funções, macros VBA e gráficos. 
+
+Fui proprietário de uma pequena Lan House.
+Formatei e configurei 4 CPUs com o Linux Mint.
+- Os clientes alugavam 2 dessas CPUs para acessarem os sites que precisavam e imprimirem documentos.
+- Nas outras 2 CPUs eu simulei uma pequena infraestrutura on premise. 
+Criei VMs (Máquinas Virtuais), containers Docker, instalei, configurei e testei localmente algumas ferramentas para gerenciamento de infraestrutura de TI.
+Prestei serviços administrativos e realizei manutenção em computadores.
+	
+Prestei alguns serviços como freelancer com a intermediação do site 99freelas: 
+https://www.99freelas.com.br/user/danielramosbh74
+	
+Estudei, configurei e fiz testes localmente com os frameworks, bancos de dados e tecnologias abaixo:
+	
+- JavaScript - Puro (sem framework) ou usando o NodeJS e/ou o Vue.js como frameworks, conforme a demanda.
+- Python - Puro (sem framework) ou usando o Flask ou o Django como framework, conforme a demanda.
+- BASH / Shell Script / YAML - Usei em pipelines de CI/CD (Github Actions, Gitlab, Jenkins, etc) e em configurações de infraestrutura de TI em geral, On premise e Cloud.
+- Versionamento de código: Git / Github.
+- Integrações usando APIs REST - Ex. Vue.js com Python.
+- Bancos de dados: MySQL, PostGreSQL, MongoDB
+- ETL - Extração Transformação e Carregamento de Dados:
+Arquivos CSV, XML, JSON
+Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
+Consultas SQL
+- RPA - Robotic Process Automation - Módulo pyautogui do Python
+- VMs e Containers: Instância Linux AWS EC2, Docker, Kubernetes
+- Clouds: GCP, Azure, AWS e IBM.
+
+Github pessoal: https://github.com/danielramosbh74
