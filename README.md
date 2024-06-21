@@ -14,38 +14,18 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-### Consultor de TI
+### Presto serviços de Consultoria em TI
+*Foco na otimização dos recursos e na redução de custos:*
 
-Implantei e configurei lojas virtuais, sites e sistemas web baseados em WordPress e outros softwares de código aberto feitos em PHP.
+Etapa estratégica:
+- Diagnóstico para entendimento do negócio, proposição de alternativas de soluções tecnológicas, análise dos custos e benefícios, pontos fortes e fracos e riscos de cada alternativa, planejamento da integração dos processos com as tecnologias ou sistemas com cronograma físico-financeiro.
+- Gerenciamento do projeto de implantação da solução tecnológica escolhida
 
-Tive contas gratuitas na AWS, na Google Cloud, Azure e IBM e testei os principais serviços destas plataformas.
-
-Auxiliei remotamente alguns clientes com planilhas administrativas complexas, com dashboards, funções, macros VBA e gráficos. 
-
-Fui proprietário de uma pequena Lan House.
-Formatei e configurei 4 CPUs com o Linux Mint.
-- Os clientes alugavam 2 dessas CPUs para acessarem os sites que precisavam e imprimirem documentos.
-- Nas outras 2 CPUs eu simulei uma pequena infraestrutura on premise. 
-Criei VMs (Máquinas Virtuais), containers Docker, instalei, configurei e testei localmente algumas ferramentas para gerenciamento de infraestrutura de TI.
-Prestei serviços administrativos e realizei manutenção em computadores.
-	
-Prestei alguns serviços como freelancer com a intermediação do site 99freelas: 
-https://www.99freelas.com.br/user/danielramosbh74
-	
-Estudei, configurei e fiz testes localmente com os frameworks, bancos de dados e tecnologias abaixo:
-	
-- JavaScript - Puro (sem framework) ou usando o NodeJS e/ou o Vue.js como frameworks, conforme a demanda.
-- Python - Puro (sem framework) ou usando o Flask ou o Django como framework, conforme a demanda.
-- BASH / Shell Script / YAML - Usei em pipelines de CI/CD (Github Actions, Gitlab, Jenkins, etc) e em configurações de infraestrutura de TI em geral, On premise e Cloud.
-- Versionamento de código: Git / Github.
-- Integrações usando APIs REST - Ex. Vue.js com Python.
-- Bancos de dados: MySQL, PostGreSQL, MongoDB
-- ETL - Extração Transformação e Carregamento de Dados:
-Arquivos CSV, XML, JSON
-Módulos matemáticos e estatísticos do Python (ex. SciKit Learn, PANDAS)
-Consultas SQL
-- RPA - Robotic Process Automation - Módulo pyautogui do Python
-- VMs e Containers: Instância Linux AWS EC2, Docker, Kubernetes
-- Clouds: GCP, Azure, AWS e IBM.
-
-Github pessoal: https://github.com/danielramosbh74
+Etapa operacional - Execução do planejamento e do ciclo PDCA:
+- Instalação e configuração de ambientes de desenvolvimento (ex. Docker no WSL 2 do Windows localmente e/ou também em VMs Linux Ubuntu, como instâncias EC2 do AWS) 
+- Instalação padrão (sem personalização) de softwares livres (ex. Imagem Docker do WordPress).
+- Configurações adicionais (ex. instalação de plugins) e personalização (ex. conteúdo de texto e imagens personalizadas) de softwares de código aberto (ex. WordPress)
+- Desenvolvimento de software em Python, JavaScript e PHP, puro ou com frameworks (ex. Flask, Django, Node.js, Vue.js).
+- Integração de sistemas legados com sistemas mais modernos. Ex. Desenvolvimento de APIs REST
+- Migração de sistemas legados instalados localmente para containers.
+- Criação e edição remota de planilhas administrativas.
