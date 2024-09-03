@@ -14,7 +14,7 @@
 _"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."_
 **Edsger W. Dijkstra**
 
-### Presto serviços de Consultoria em TI
+<!-- ### Presto serviços de Consultoria em TI
 *Foco na otimização dos recursos e na redução de custos:*
 
 Etapa estratégica:
@@ -29,3 +29,4 @@ Etapa operacional - Execução do planejamento e do ciclo PDCA:
 - Integração de sistemas legados com sistemas mais modernos. Ex. Desenvolvimento de APIs REST
 - Migração de sistemas legados instalados localmente para containers.
 - Criação e edição remota de planilhas administrativas.
+-->
